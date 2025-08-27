@@ -28,7 +28,6 @@
 
 🔹 [**Chatty**](https://github.com/codewithayush7/chatty) – Real-time chat app with video calls, typing indicators, friend requests.  
 🔹 [**Doctor Appointment Platform**](#) – Full-stack Next.js project for doctor-patient management.
-🔹 [**Fabnest**](#) – MERN stack e=commerce website.
 🔹 [**YelpCamp**](#) – Full-stack web app.  
 🔹 [**Personal Finance Tracker**](#) – Mini project for managing expenses.  
 🔹 [**Amazon Clone (Frontend)**](#) – E-commerce frontend UI.  
