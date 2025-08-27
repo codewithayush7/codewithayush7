@@ -19,6 +19,7 @@
 ---
 
 ## 💻 Tech Stack  
+### 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,express,mongodb,postgresql,mysql,tailwind,bootstrap,html,css,git,github,vscode,ejs,redux,zustand,postman,vite,vercel,render)](https://skillicons.dev)
 
