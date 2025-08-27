@@ -24,15 +24,5 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-🔹 [**Chatty**](https://github.com/codewithayush7/chatty) – Real-time chat app with video calls, typing indicators, friend requests.  
-🔹 [**Doctor Appointment Platform**](#) – Full-stack Next.js project for doctor-patient management.
-🔹 [**YelpCamp**](#) – Full-stack web app.  
-🔹 [**Personal Finance Tracker**](#) – Mini project for managing expenses.  
-🔹 [**Amazon Clone (Frontend)**](#) – E-commerce frontend UI.  
-
----
-
 ## ✨ Fun Fact  
 ⚡ Apart from coding, I love **dancing & organizing events**.  
