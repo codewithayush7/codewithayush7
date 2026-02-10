@@ -114,7 +114,7 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/aayush-kumar-verma-0b1997267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:codewithayush7@gmail.com">
