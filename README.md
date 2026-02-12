@@ -88,11 +88,6 @@
 - RESTful APIs supporting 100+ concurrent requests  
 - Modular architecture with reduced technical debt  
 
-### 🐳 Dockerized Three-Tier Backend System
-- Django, MySQL, Docker, Nginx, AWS EC2  
-- Nginx reverse proxy + Docker Compose orchestration  
-- Health checks, persistent volumes & isolated networks  
-- Production-style deployment on EC2  
 
 ---
 
