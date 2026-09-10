@@ -136,41 +136,17 @@ My primary focus is full-stack development, with a growing emphasis on **backend
 
 ---
 
-### 🛒 FabNest — Full-Stack E-Commerce Platform
+### 🏥 MediMeet — Healthcare / Appointment Platform
 
-> A modular e-commerce application with customer-facing shopping features and an administrative dashboard.
+> A full-stack platform designed to simplify the interaction between patients and healthcare providers.
 
-* 🛍️ Product browsing and detailed product listings
-* 🔎 Advanced filtering and search
-* 🛒 Cart management
-* 👨‍💼 Admin dashboard
-* 🔌 RESTful backend APIs
-* 🧩 Modular frontend and backend architecture
-* 🎨 React + Tailwind CSS + Vite
+* 👤 Patient and doctor workflows
+* 📅 Appointment management
+* 🔐 Authentication and protected application flows
+* 🗂️ Structured backend and database architecture
+* 🌐 Full-stack web application
 
-**Focus:** Full-Stack Development · REST APIs · E-Commerce
-
----
-
-## 🧠 Currently Learning
-
-```text
-Backend Architecture     ███████████████████░░
-System Design             ████████████████░░░░
-AI Engineering            ███████████████░░░░░
-Cloud & DevOps            █████████████░░░░░░░
-Next.js                   ████████████████░░░░
-DSA & Competitive Coding  █████████████████░░░
-```
-
-Currently diving deeper into:
-
-* 🏗️ Scalable backend architecture
-* 🔄 Real-time system design
-* 🤖 AI-powered developer applications
-* ☁️ Docker, AWS & cloud infrastructure
-* ⚡ Next.js and modern React patterns
-* 🧠 Data structures & algorithms
+**Focus:** Full-Stack Development · Backend Engineering · Healthcare Technology
 
 ---
 
@@ -178,15 +154,17 @@ Currently diving deeper into:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithayush7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithayush7&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=codewithayush7&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayush7&theme=tokyo-night&hide_border=true" width="95%"/>
+  <a href="https://github.com/codewithayush7">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayush7&theme=tokyo-night&hide_border=true" width="95%" alt="Aayush's GitHub Activity Graph"/>
+  </a>
 </p>
 
 ---
