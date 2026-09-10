@@ -159,16 +159,6 @@ My primary focus is full-stack development, with a growing emphasis on **backend
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/codewithayush7">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayush7&theme=tokyo-night&hide_border=true" width="95%" alt="Aayush's GitHub Activity Graph"/>
-  </a>
-</p>
-
----
-
 ## 🎯 My Engineering Interests
 
 ```text
